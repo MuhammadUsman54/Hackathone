@@ -186,3 +186,31 @@ body{
     }
 }
 
+@media screen and (max-width:785px) {
+    .footer{
+        width: 100vw;
+        height: 10vh;
+    }
+    .Product{
+        width: 100vw;
+        height: 80vh;
+        margin: 0px auto;
+    }
+
+    .card{
+        margin-left: 37px;
+    }
+    .header{
+        height: 100px;
+        display: block;
+    }
+
+    .logo{
+        text-align: center;
+    }
+
+    .tab{
+        margin:0px auto;
+    }
+}
+
